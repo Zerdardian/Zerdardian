@@ -8,7 +8,9 @@
    The website will work as my Portofolio website. But also to evolve my website with other things.
 
  - Account system
-   A system which will work with an account, which you can connect your Twitch, Discord, Youtube with for the bots I will be working on... Eventually. Once I know more and When I will be a pro in it.
+   A system which will work with an account, which you can connect your Twitch, Discord, Youtube with for the bots I will be working on... Eventually. Once I know more and When I    will be a pro in it.
+   - First parts are done! Things are up and running and it works!
+   - Now plan b.
 
  - Other
    Things I want to add to my site.
