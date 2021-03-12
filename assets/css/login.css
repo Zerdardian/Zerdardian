@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+@font-face {
+    font-family: 'TriForce';
+    src: url(../fonts/Triforce.woff);
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    max-width: 1920px;
+    overflow: hidden;
+}
+
+#container {
+    width: 80%;
+    height: 800px;
+
+    border: 1px solid black;
+    margin: 40px auto;
+
+    border-radius: 20px;
+    box-shadow: 20px 20px black;
+    background-color: whitesmoke;
+}
+
+#picture {
+    position: fixed;
+    width: 40%;
+    height: 800px;
+    border-radius: 20px;
+    z-index: 10;
+    background-color: red;
+}
+
+#picture p {
+    position: absolute;
+    left: 32.5%;
+    bottom: 7.5%;
+    font-family: 'Triforce';
+    font-size: 300px;
+
+    width: 200px;
+    height: 200px;
+}
+
+#login {
+    z-index: 0;
+    position: absolute;
+    
+    left: 45.15%;
+    top: 80px;
+    padding-left: 140px;
+    padding-top: 20px;
+
+    width: 35%;
+    height: 800px;
+}
+
+#login h1 {
+    font-size: 40px;
+}
+
+#login label {
+    font-size: 20px;
+}
+
+.textbox {
+    width: 200px;
+    height: 50px;
+
+    font-size: 20px;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: whitesmoke;
+    transition: .5s;
+}
+
+.textbox:hover {
+    width: 300px;
+    border-bottom-right-radius: 20px;
+}
+
+.button {
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    transition: .5s;
+}
+
+.button:hover {
+    width: 200px;
+    height: 75px;
+
+    font-size: 20px;
+
+    background-color: teal;
+    color: white;
+    border-radius: 20px;
+    border-bottom: 1px solid black;
+    box-shadow: 20px 20px black;
+}
+
+#logo-bottom {
+    display: none;
+}
+
+.re {
+    width: 300px;
+}
+
+#login .smaller {
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+    #picture p {
+        left: 22%;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    #picture p {
+        left: 24%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #picture p {
+        left: 28%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    #picture {
+        display: none;
+    }
+    #login {
+        position: absolute;
+        width: 100%;
+        left: 0;
+    }
+
+    #logo-bottom {
+        display: block;
+        position: absolute;
+        font-family: 'Triforce';
+        font-size: 50px;
+        left: 70%;
+        bottom: 0;
+    }
+}

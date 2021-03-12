@@ -21,15 +21,14 @@
                     <a class="menu-item" href="./about">About</a>
                     <a class="menu-item" href="./portofolio">Portofolio</a>
                     <a class="menu-item" href="./contact">Contact</a>
+                    <p class="menu-account"><?php
+                        session_start();
+                        if(isset($_SESSION["username"])) {
+                            ?><a href="./profile.php">Welkom <?php echo $_SESSION["username"];?></a><br>
+                            <a href="./logout.php">Log uit</a><?php
+                        } else {
+                            ?><a href="./login.php">Login</a><br><a href="./register.php">Register</a><?php
+                        }
+                    ?></p>
                 </div>
         </header>
-        <div id="container">
-           
-        </div>
-  
-      <div class="push"></div>
-    </div>
-    <footer class="footer">test</footer>
-    <script src="./assets/js/nav.js"></script>
-</body>
-</html>
