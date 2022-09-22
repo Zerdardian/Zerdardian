@@ -1,4 +1,4 @@
-| Engels
+| Engels, Guest language |<br>
 Welcome on my Github Page. My name is Kjeld | @Zerdardian, Pleasure meeting ya all.
 You will see all my projects that I've created here, On my Github page. School project and other items that I program, like:
 - My own page, which you can check out on /The-Zerdardian-Site
@@ -15,7 +15,7 @@ What I do want to learn and where I still have interests is the following:
 Keep following me on Github to know more about my Journey ahead.
 As a note, I will mostly upload my files as translations as Dutch. Not the code self but the text in the files like responses. I *will* try to explain everything when I get there...
 
-| Nederlands
+| Nederlands, Main language |<br>
 Welkom op mijn Github. Naam is Kjeld | @Zerdardian, Goed om jullie te ontmoeten.
 Op mijn github pagina vind je alle projecten die ik doe en waar ik mee bezig ben, waaronder:
 - Eigen website via /The-Zerdardian-Site
@@ -31,6 +31,7 @@ Wat ik nog wil leren en waar ik nog geintereseerd in ben is het volgende:
 etc.
 
 Blijf mij volgen voor meer informatie hoe ik verder ga in mijn journey van het progameren!
+Let op, alle response teksten als in errors en andere tools zijn vaak geschreven in het Nederlands, al wil je ze Engels zal ik alle teksten een beetje bewerken met wat ze bedoelen!
 
 <!---
 Zerdardian/Zerdardian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
