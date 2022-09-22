@@ -1,7 +1,7 @@
 | Engels, Guest language |<br>
 Welcome on my Github Page. My name is Kjeld | @Zerdardian, Pleasure meeting ya all.
 You will see all my projects that I've created here, On my Github page. School project and other items that I program, like:
-- My own page, which you can check out on /The-Zerdardian-Site
+- My own website, currently working on.
 - My own Twitch and/or Discord bot | FUTURE project
 - Different Programmer languages.
 - *Empty, for the future*
@@ -18,7 +18,7 @@ As a note, I will mostly upload my files as translations as Dutch. Not the code 
 | Nederlands, Main language |<br>
 Welkom op mijn Github. Naam is Kjeld | @Zerdardian, Goed om jullie te ontmoeten.
 Op mijn github pagina vind je alle projecten die ik doe en waar ik mee bezig ben, waaronder:
-- Eigen website via /The-Zerdardian-Site
+- Eigen website waar ik nu aan werk
 - Eigen bot via Twitch en/of Discord | TOEKOMST
 - Andere progammeer talen leren...
 - *leeg*
